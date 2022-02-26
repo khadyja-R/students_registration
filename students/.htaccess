@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^.fr?$ registre.fr.php
+RewriteRule ^.ang?$ registre.ang.php
+RewriteRule ^fichier.fr?$ print.fr.php
+RewriteRule ^fichier.ang?$ print.ang.php
+
